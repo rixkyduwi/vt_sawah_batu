@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.10" apprev="18007">
+  <panorama id="node1">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="339.8" fovmode="0">
+      <start projection="4" tilt="5.24" fov="93.05" pan="166.75"/>
+      <flyin projection="9" tilt="-87.53" fov="232.77" pan="176.47"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="0.00" customnodeid="" latitude="-7.094214" title="Gerbang Sawah Batu" source="" heading="339.8" description="" author="" tags="Batuagung" datetime="03/10/2021 15:36" copyright="" nodeid="node1"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-2.41" url="{node2}" id="Point01" target="" pan="-181.52" description="" skinid="ht_node"/>
+      <hotspot title="desa wisata bukateja" tilt="23.87" url="" id="Point02" target="" pan="-182.52" description="desa wisata bukateja memiliki objek wisata Sawah batu yang dibuka setiap hari. Senin hingga Jumat, jam  dimulai dari pukul 08.00 sampai dengan 17.00 WIB. Sabtu dan Minggu dibuka pukul 06.00 sampai 18.00 WIB." skinid="ht_info"/>
+      <hotspot title="" tilt="-2.53" url="{node2}" id="Point01" target="164.1/17.2/109.2" pan="-181.57" description="" skinid="ht_node_3d"/>
+      <polyhotspot title="" url="{node2}" id="Poly01" target="164.1/17.2/109.2" description="">
+        <polystring>-185.27/11.67|-164.69/-4.02|-185.27/-18.16|-203.44/-3.64|-195.2/-2.61|-195.57/18.06|-166.53/19.33|-164.69/-4.02|-164.69/-3.64</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-8.410" mode="2" id="Element01" level="1.000" pan="-168.090" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="277.5" fovmode="0">
+      <start projection="4" tilt="5.36" fov="78.44" pan="175.05"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="331.90" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="277.5" description="" author="" tags="Batuagung" datetime="03/10/2021 14:40" copyright="" nodeid="node10"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="4.38" url="{node11}" id="Point01" target="" pan="-182.55" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-5.85" url="{node8}" id="Point02" target="" pan="-104.25" description="" skinid="ht_node"/>
+      <hotspot title="Sawah Batu" tilt="-6.38" url="{node12}" id="Point03" target="$fwd" pan="499.08" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-4.49" url="{node13}" id="Point04" target="" pan="-271.48" description="" skinid="ht_node"/>
+      <hotspot title="meeting hall" tilt="19.67" url="images/koin.jpeg" id="Point05" target="" pan="-184.29" description="tempat untuk bermusyawarah/meeting perusahaan dengan suasana berbeda dan bisa di sewakan untuk event event tertentu " skinid="ht_info"/>
+      <hotspot title="kantin" tilt="5.96" url="" id="Point06" target="" pan="-219.56" description="kantin yang menyediakan makanan dan minuman dengan pembayaran uang asli sebagai alat transaksinya bukan dengan koin " skinid="ht_info"/>
+      <hotspot title="" tilt="4.29" url="{node11}" id="Point01" target="" pan="-182.7" description="" skinid="ht_node_3d"/>
+      <hotspot title="Sawah Batu" tilt="-6.5" url="{node12}" id="Point03" target="$fwd" pan="-221.35" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-4.81" url="{node13}" id="Point04" target="-94.4/-7.1/91.7" pan="-271.65" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-6.04" url="{node8}" id="Point02" target="175.7/-8.1/70.0" pan="-104.01" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="55.720" mode="2" id="Element01" level="1.000" pan="-154.040" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="230.6" fovmode="0">
+      <start projection="4" tilt="-1.42" fov="70" pan="114.51"/>
+      <flyin projection="9" tilt="89.01" fov="224.06" pan="107.27"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="335.30" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="230.6" description="" author="" tags="Batuagung" datetime="03/10/2021 14:37" copyright="" nodeid="node9"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-5.67" url="{node5}" id="Point01" target="" pan="-173.01" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="1.07" url="{node10}" id="Point03" target="-3.6/3.9/120.0" pan="-237.29" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="0.98" url="{node10}" id="Point03" target="-3.6/3.9/120.0" pan="-237.22" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-5.79" url="{node5}" id="Point01" target="-59.4/-5.4/70.0" pan="-172.88" description="" skinid="ht_node_3d"/>
+      <hotspot title="kebun jagung" tilt="-8.69" url="" id="Point04" target="" pan="-93.58" description="tempat yang cocok untuk bercocok tanam jagung dan tanaman lainnya " skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-7.260" mode="2" id="Element01" level="1.000" pan="-13.950" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="267.8" fovmode="0">
+      <start projection="4" tilt="17.19" fov="109.22" pan="164.13"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="339.46" customnodeid="" latitude="-7.094214" title="Pintu Masuk Sawah Batu" source="" heading="267.8" description="" author="" tags="Batuagung" datetime="03/10/2021 15:33" copyright="" nodeid="node2"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="1.3" url="{node1}" id="Point01" target="" pan="-83.63" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-2.74" url="{node3}" id="Point02" target="" pan="-190.16" description="" skinid="ht_node"/>
+      <hotspot title="loket pembayaran" tilt="8.57" url="" id="Point03" target="" pan="-153.72" description="pembayaran tiket masuk tempat wisata sawah batu biaya masuknya RP 2000" skinid="ht_info"/>
+      <hotspot title="" tilt="-3.89" url="{node3}" id="Point02" target="-156.6/1.7/70.0" pan="-190.61" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="1.14" url="{node1}" id="Point01" target="" pan="-82.94" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-14.340" mode="2" id="Element01" level="1.000" pan="-335.190" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="315.2" fovmode="0">
+      <start projection="4" tilt="-2.15" fov="70" pan="23.54"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="344.08" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="315.2" description="" author="" tags="Batuagung" datetime="03/10/2021 15:31" copyright="" nodeid="node3"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.04" url="{node2}" id="Point01" target="" pan="-322.52" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="3.5" url="{node4}" id="Point02" target="" pan="-155.17" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="0.22" url="{node2}" id="Point01" target="-83.2/3.8/109.2" pan="-322.28" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="3.53" url="{node4}" id="Point02" target="-156.2/-2.3/70.0" pan="-155.15" description="" skinid="ht_node_3d"/>
+      <hotspot title="jembatan dulu " tilt="-12.53" url="" id="Point03" target="" pan="-333.06" description="" skinid="ht_image"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-0.260" mode="2" id="Element01" level="1.000" pan="-241.900" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="321.4" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="343.15" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="321.4" description="" author="" tags="Batuagung" datetime="03/10/2021 15:31" copyright="" nodeid="node4"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="1.82" url="{node5}" id="Point01" target="-12.2/-2.8/70.0" pan="-148.21" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-18.28" url="{node3}" id="Point02" target="" pan="-363.25" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-18.37" url="{node3}" id="Point02" target="35.4/-8.1/70.0" pan="-2.94" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="1.97" url="{node5}" id="Point01" target="158.5/-5.2/70.0" pan="-148.51" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-12.920" mode="2" id="Element01" level="1.000" pan="-254.600" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="218.6" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="332.10" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="218.6" description="" author="" tags="Batuagung" datetime="03/10/2021 14:28" copyright="" nodeid="node5"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-6.18" url="{node9}" id="Point01" target="" pan="-358.6" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-4.43" url="{node6}" id="Point02" target="" pan="-212.43" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-4.59" url="{node4}" id="Point03" target="" pan="-56.91" description="" skinid="ht_node"/>
+      <hotspot title="kandang rusa" tilt="6.52" url="" id="Point04" target="" pan="-298.96" description="penangkaran dan budidaya rusa untuk menarik wisatawan, wisatawan dapat memberi makan rusa dengan pakan yang disediakan" skinid="ht_info"/>
+      <hotspot title="" tilt="-6.29" url="{node9}" id="Point01" target="22.4/-1.6/70.0" pan="-358.28" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-4.95" url="{node4}" id="Point03" target="-3.9/-7.9/70.0" pan="-57.02" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-4.21" url="{node6}" id="Point02" target="-54.2/-0.3/99.2" pan="-212.22" description="" skinid="ht_node_3d"/>
+      <hotspot title="rusa" tilt="-8.74" url="images/kandang_rusa.jpg" id="Point05" target="" pan="-253.86" description="" skinid="ht_image"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-8.960" mode="2" id="Element01" level="1.000" pan="-146.200" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="130" fovmode="0">
+      <start projection="4" tilt="-16.7" fov="107.28" pan="153.45"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="0.00" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="130" description="" author="" tags="Batuagung" datetime="03/10/2021 14:30" copyright="" nodeid="node6"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-7.45" url="{node5}" id="Point01" target="" pan="-114.01" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="1.68" url="{node7}" id="Point02" target="" pan="-55.14" description="" skinid="ht_node"/>
+      <hotspot title="Jembatan Bambu" tilt="-30.7" url="" id="Point05" target="" pan="-27.83" description="Jembatan yang terbuat dari bambu yang menjadi penghubung ke spot spot wisata sawah batu lainnya" skinid="ht_info"/>
+      <hotspot title="" tilt="-7.68" url="{node5}" id="Point01" target="-60.7/-11.6/70.0" pan="-114.2" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="1.16" url="{node7}" id="Point02" target="-70.3/-10.0/70.0" pan="-54.92" description="" skinid="ht_node_3d"/>
+      <hotspot title="kolam renang" tilt="-27.17" url="images/kolam_renang.jpg" id="Point03" target="" pan="-189.26" description="tempat pemandian air panas sumber mata air lokal, khusus anak anak" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-3.410" mode="2" id="Element01" level="1.000" pan="-328.670" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="228.1" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="334.90" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="228.1" description="" author="" tags="Batuagung" datetime="03/10/2021 14:35" copyright="" nodeid="node8"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-2.08" url="{node7}" id="Point01" target="" pan="-176.8" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-1.48" url="{node10}" id="Point02" target="" pan="-343.62" description="" skinid="ht_node"/>
+      <hotspot title="budidaya rusa" tilt="-9.1" url="" id="Point03" target="" pan="-132.28" description="penangkaran dan budidaya rusa untuk menarik wisatawan, wisatawan dapat memberi makan rusa dengan pakan yang disediakan" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="1.83" url="" id="Point04" target="" pan="-200.79" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="" tilt="-1.34" url="{node10}" id="Point02" target="178.0/-10.3/70.0" pan="-343.62" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-1.87" url="{node7}" id="Point01" target="107.0/-7.7/70.0" pan="-176.91" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-10.400" mode="2" id="Element01" level="1.000" pan="-45.450" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="135.1" fovmode="0">
+      <start projection="4" tilt="1.42" fov="70" pan="-84.17"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="330.30" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="135.1" description="" author="" tags="Batuagung" datetime="03/10/2021 14:33" copyright="" nodeid="node7"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-3.64" url="{node8}" id="Point01" target="" pan="-71.6" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-11.89" url="{node5}" id="Point02" target="" pan="-136.13" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-15.25" url="{node6}" id="Point03" target="" pan="-236.57" description="" skinid="ht_node"/>
+      <hotspot title="Gazebo" tilt="6.72" url="" id="Point05" target="" pan="-18.26" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="" tilt="-4.24" url="{node8}" id="Point01" target="" pan="-71.7" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-15.43" url="{node6}" id="Point03" target="-112.7/-9.2/80.9" pan="-236.69" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-11.71" url="{node5}" id="Point02" target="-57.0/-11.1/70.0" pan="-136.23" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="20.550" mode="2" id="Element01" level="1.000" pan="-62.890" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="203.5" fovmode="0">
+      <start projection="4" tilt="-0.35" fov="99.17" pan="-92.14"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="331.00" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="203.5" description="" author="" tags="Batuagung" datetime="03/10/2021 14:41" copyright="" nodeid="node11"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-7.84" url="{node10}" id="Point01" target="" pan="-89.3" description="" skinid="ht_node"/>
+      <hotspot title="tempat presentasi" tilt="-0.9" url="" id="Point02" target="" pan="-180.53" description="tempat untuk mempresentasikan apa yang akan didiskusikan di meeting hall ini" skinid="ht_info"/>
+      <hotspot title="" tilt="-7.7" url="{node10}" id="Point01" target="" pan="-89.01" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="5.670" mode="2" id="Element01" level="1.000" pan="-273.450" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="294.7" fovmode="0">
+      <start projection="4" tilt="13.55" fov="91.68" pan="-123.26"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="333.70" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="294.7" description="" author="" tags="Batuagung" datetime="03/10/2021 14:43" copyright="" nodeid="node12"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-6.35" url="{node10}" id="Point01" target="" pan="-34.79" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-6.68" url="{node13}" id="Point02" target="" pan="-316.74" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-6.13" url="{node10}" id="Point01" target="-90.3/-9.9/70.0" pan="-35.2" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="3.360" mode="2" id="Element01" level="1.000" pan="-125.140" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="198.6" fovmode="0">
+      <start projection="4" tilt="10.26" fov="91.68" pan="12.5"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="0.00" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="198.6" description="" author="" tags="Batuagung" datetime="03/10/2021 14:46" copyright="" nodeid="node13"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-4.64" url="{node10}" id="Point01" target="" pan="-196.33" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-7.88" url="{node14}" id="Point02" target="" pan="-95.11" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="0.72" url="{node12}" id="Point03" target="" pan="-246.61" description="" skinid="ht_node"/>
+      <hotspot title="Bukit Gua Lawa" tilt="7.02" url="" id="Point04" target="" pan="-338.09" description="bukit yang terletak di desa Harjowinagun kec balapulang kab tegal mempunyai ketinggian 1000 mdpl " skinid="ht_info"/>
+      <hotspot title="meeting hall" tilt="8.79" url="" id="Point05" target="" pan="-227.86" description="tempat untuk bermusyawarah/meeting perusahaan dengan suasana berbeda dan bisa di sewakan untuk event event tertentu " skinid="ht_info"/>
+      <hotspot title="" tilt="-5.34" url="{node10}" id="Point01" target="-91.4/-11.5/70.0" pan="-196.66" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-7.71" url="{node14}" id="Point02" target="-5.1/0.7/70.0" pan="-94.95" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="0.26" url="{node12}" id="Point03" target="27.8/-7.5/91.7" pan="-246.02" description="" skinid="ht_node_3d"/>
+      <hotspot title="lapangan terbuka" tilt="-9.72" url="" id="Point06" target="" pan="-138.43" description="tempat berkumpul dan mengadakan live music konser / event besar lainnya" skinid="ht_info"/>
+      <hotspot title="konser" tilt="-8.96" url="" id="Point07" target="" pan="-156.64" description="" skinid="ht_image"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="75.750" mode="2" id="Element01" level="1.000" pan="-95.180" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="191.3" fovmode="0">
+      <start projection="4" tilt="5.2" fov="70" pan="82.86"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="334.50" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="191.3" description="" author="" tags="Batuagung" datetime="03/10/2021 14:47" copyright="" nodeid="node14"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-5.7" url="{node15}" id="Point01" target="" pan="-7.85" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="0.53" url="{node13}" id="Point02" target="" pan="-274.23" description="" skinid="ht_node"/>
+      <hotspot title="tempat penukaran koin" tilt="4.45" url="" id="Point03" target="" pan="-358.78" description="tempat penukaran uang asli menjadi koin khusus yang digunakan untuk transaksi di pasar wisata batu sawah ini harga 1 koin = 2.500 rupiah" skinid="ht_info"/>
+      <hotspot title="" tilt="-5.25" url="{node15}" id="Point01" target="-166.1/-2.5/120.0" pan="-7.81" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="0.35" url="{node13}" id="Point02" target="89.0/-20.1/91.7" pan="-274.1" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-82.310" mode="2" id="Element01" level="1.000" pan="-210.760" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="11.5" fovmode="0">
+      <start projection="4" tilt="6.63" fov="146.01" pan="-50.81"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="334.30" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="11.5" description="" author="" tags="Batuagung" datetime="03/10/2021 14:49" copyright="" nodeid="node15"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-3.46" url="{node16}" id="Point01" target="" pan="-164.05" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-1.61" url="{node14}" id="Point02" target="" pan="-343.88" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-3.87" url="{node20}" id="Point04" target="137.3/1.0/70.0" pan="-235.29" description="" skinid="ht_node"/>
+      <hotspot title="tempat penukaran koin" tilt="-3.86" url="images/koin.jpeg" id="Point03" target="" pan="-31.63" description="&lt;image src=&quot;/koin.jpeg&quot;>koin&lt;/image>tempat penukaran uang asli menjadi koin khusus yang digunakan untuk transaksi di pasar wisata batu sawah ini harga 1 koin = 2.500 rupiah&#xa;" skinid="ht_info"/>
+      <hotspot title="" tilt="-6.99" url="{node16}" id="Point01" target="-89.3/-1.8/70.0" pan="-165.18" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-5.14" url="{node20}" id="Point04" target="1.3/-7.5/70.0" pan="-235.31" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-1.57" url="{node14}" id="Point02" target="84.0/2.1/70.0" pan="-344.08" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="1.050" mode="2" id="Element01" level="1.000" pan="-274.380" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90.3" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="334.40" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="90.3" description="" author="" tags="Batuagung" datetime="03/10/2021 14:50" copyright="" nodeid="node16"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-3.93" url="{node17}" id="Point01" target="" pan="-88.02" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-3.66" url="{node15}" id="Point02" target="" pan="-269.97" description="" skinid="ht_node"/>
+      <hotspot title="pasar sawah batu" tilt="-16.81" url="" id="Point04" target="" pan="-357.62" description="Pasar yang menyediakan banyak makanan tradisional khas Desa Bukateja, seperti sega walang dan nasi jagung" skinid="ht_info"/>
+      <hotspot title="" tilt="-3.61" url="{node17}" id="Point01" target="-10.3/-3.0/70.0" pan="-87.88" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-3.84" url="{node15}" id="Point02" target="10.7/-3.3/87.6" pan="-270.03" description="" skinid="ht_node_3d"/>
+      <hotspot title="Gazebo " tilt="2.21" url="" id="Point05" target="" pan="-103.71" description="ruang istirahat yang disediakan untuk para pengunjung &#xa;" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="-0.42" url="images/Gazebo.jpg" id="Point03" target="" pan="-136.55" description="" skinid="ht_image"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" tiltsize="10.000" startmutedmobile="0" pansize="10.000" tilt="-8.080" mode="2" id="Element01" level="1.000" pan="-204.220" loop="0" ambientlevel="0.000" field="90.000">
+        <source url="media/Flute Pad Harp Pianoforte .mp3"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="269.9" fovmode="0">
+      <start projection="4" tilt="-4.73" fov="70" pan="-117.85"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="335.20" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="269.9" description="" author="" tags="Batuagung" datetime="03/10/2021 14:51" copyright="" nodeid="node17"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-5.01" url="{node18}" id="Point01" target="" pan="-9.8" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-1.23" url="{node16}" id="Point02" target="" pan="-104.18" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-5.48" url="{node18}" id="Point03" target="1.0/-8.5/70.0" pan="-9.42999" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-1.3" url="{node16}" id="Point04" target="90.5/-0.6/70.0" pan="-104.33" description="" skinid="ht_node_3d"/>
+      <hotspot title="Pasar Sawah Batu" tilt="-3.83" url="" id="Point05" target="" pan="-125.94" description="Pasar tersebut, menyediakan banyak makanan tradisional khas Desa Bukateja, seperti sega walang dan nasi jagung" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="-2.64" url="" id="Point06" target="" pan="-345.49" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="276.9" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="332.55" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="276.9" description="" author="" tags="Batuagung" datetime="03/10/2021 15:08" copyright="" nodeid="node18"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-5.8" url="{node19}" id="Point01" target="" pan="-0.23" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="-2.91" url="{node17}" id="Point02" target="" pan="-177.26" description="" skinid="ht_node"/>
+      <hotspot title="Gazebo" tilt="-14.66" url="" id="Point03" target="" pan="-341.88" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="1.56" url="" id="Point04" target="" pan="-192.53" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="pasar sawah batu" tilt="0.17" url="" id="Point05" target="" pan="-149.95" description="Pasar tersebut, menyediakan banyak makanan tradisional khas Desa Bukateja, seperti sega walang dan nasi jagung" skinid="ht_info"/>
+      <hotspot title="" tilt="-5.98" url="{node19}" id="Point01" target="-156.6/3.2/106.9" pan="-360" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-3.46" url="{node17}" id="Point02" target="-106.4/-3.9/70.0" pan="-176.9" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="258.1" fovmode="0">
+      <start projection="4" tilt="3.22" fov="106.89" pan="-156.59"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="338.25" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="258.1" description="" author="" tags="Batuagung" datetime="03/10/2021 15:25" copyright="" nodeid="node19"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-4.36" url="{node20}" id="Point01" target="" pan="-108.57" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="0.44" url="{node19}" id="Point02" target="" pan="-194.24" description="" skinid="ht_node"/>
+      <hotspot title="Gazebo" tilt="-2.9" url="" id="Point03" target="" pan="-276.37" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="-8.79" url="" id="Point04" target="" pan="-63.46" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="" tilt="-0.77" url="{node18}" id="Point02" target="-177.9/-0.4/70.0" pan="-194.47" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-4.95" url="{node20}" id="Point01" target="-177.4/-5.3/70.0" pan="-108.82" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="1680" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelingpitch="0" height="1680" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" preload="0" predecode="0" height="1680"/>
+      <level width="840" preload="0" predecode="0" height="840"/>
+      <level width="420" preload="1" predecode="1" height="420"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="206.4" fovmode="0">
+      <start projection="4" tilt="0.83" fov="70" pan="146.09"/>
+      <flyin projection="4" tilt="-7.05" fov="70" pan="175.46"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata comment="" longitude="109.106808" info="" altitude="0.00" customnodeid="" latitude="-7.094214" title="Sawah Batu" source="" heading="206.4" description="" author="" tags="Batuagung" datetime="03/10/2021 15:26" copyright="" nodeid="node20"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" wordwrap="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1" bordercolor="0x000000" background="1" height="20" backgroundalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-1.06" url="" id="Point01" target="" pan="-356.29" description="" skinid="ht_node"/>
+      <hotspot title="" tilt="2.04" url="{node15}" id="Point02" target="126.5/-3.9/70.0" pan="-225.04" description="" skinid="ht_node"/>
+      <hotspot title="Gazebo" tilt="-3.07" url="" id="Point03" target="" pan="-15.34" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="-10.26" url="" id="Point04" target="" pan="-145.08" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="1.09" url="" id="Point06" target="" pan="-329.11" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_info"/>
+      <hotspot title="Gazebo" tilt="3.61" url="images/gazebo2.jpg" id="Point07" target="" pan="-306.64" description="tempat untuk istirahat, makan makanan dari pasar wisata sawah batu" skinid="ht_image"/>
+      <hotspot title="Pasar Sawah Batu" tilt="2.73" url="" id="Point09" target="" pan="-252.22" description="" skinid="ht_info"/>
+      <hotspot title="" tilt="-0.86" url="{node20}" id="Point01" target="" pan="-356.38" description="" skinid="ht_node_3d"/>
+      <hotspot title="" tilt="-7.25" url="{node15}" id="Point02" target="126.5/-3.9/70.0" pan="-175.8" description="" skinid="ht_node_3d"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" zoomfov="16" zoomafterinfov="90" type="crossdissolve" zoomin="2" blendcolor="0x000000" enabled="1" zoomspeed="2" blendtime="1" zoomafteroutfov="20" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="1"/>
+    <control invertwheel="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" longitude="" info="" customnodeid="" latitude="" title="" source="" heading="0" description="" author="" tags="" datetime="" copyright="" nodeid="master"/>
+  </masternode>
+</tour>
