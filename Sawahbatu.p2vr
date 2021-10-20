@@ -377,7 +377,7 @@
           <description>tempat untuk bermusyawarah/meeting perusahaan dengan suasana berbeda dan bisa di sewakan untuk event event tertentu </description>
           <linktype>image</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>admin/sawahbatu/images/koin.jpeg</url>
+          <url>../admin/sawahbatu/images/koin.jpeg</url>
           <skinid>ht_info</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1622,7 +1622,7 @@
           <title>rusa</title>
           <linktype>image</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>admin/sawahbatu/images/kandang_rusa.jpg</url>
+          <url>../admin/sawahbatu/images/kandang_rusa.jpg</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1868,7 +1868,7 @@
           <description>tempat pemandian air panas sumber mata air lokal, khusus anak anak</description>
           <linktype>image</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>admin/sawahbatu/images/kolam_renang.jpg</url>
+          <url>../admin/sawahbatu/images/kolam_renang.jpg</url>
           <skinid>ht_info</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3462,7 +3462,7 @@
 </description>
           <linktype>image</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>admin/sawahbatu/images/koin.jpeg</url>
+          <url>../admin/sawahbatu/images/koin.jpeg</url>
           <skinid>ht_info</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3794,7 +3794,7 @@
           <title>Gazebo</title>
           <linktype>image</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>admin/sawahbatu/images/Gazebo.jpg</url>
+          <url>../admin/sawahbatu/images/Gazebo.jpg</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -4714,7 +4714,7 @@
           <description>tempat untuk istirahat, makan makanan dari pasar wisata sawah batu</description>
           <linktype>image</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>admin/sawahbatu/images/gazebo2.jpg</url>
+          <url>../admin/sawahbatu/images/gazebo2.jpg</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
